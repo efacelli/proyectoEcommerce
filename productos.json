@@ -1,0 +1,202 @@
+[
+    {
+        "id": "remera-01",
+        "titulo": "Remera Essentials",
+        "imagen": "./img/essentialsTee.png",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 100
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Remera AntiSocialClub",
+        "imagen": "./img/antiSocialClubTee.png",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 200
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Remera Palm Angels",
+        "imagen": "./img/palmAngelsTee.png",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 150
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Chomba Orso Bianco",
+        "imagen": "./img/chombaOrso.png",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 170
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Remera Legendary",
+        "imagen": "./img/legendaryTee.png",
+        "categoria": {
+            "nombre": "Remeras",
+            "id": "remeras"
+        },
+        "precio": 199
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Combo 1",
+        "imagen": "./img/combo1.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 190
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Combo 2",
+        "imagen": "./img/combo2.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 200
+    },
+    {
+        "id": "camiseta-03",
+        "titulo": "Combo 3",
+        "imagen": "./img/combo3.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 150
+    },
+    {
+        "id": "camiseta-04",
+        "titulo": "Combo 4",
+        "imagen": "./img/combo4.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 130
+    },
+    {
+        "id": "camiseta-05",
+        "titulo": "Combo 5",
+        "imagen": "./img/combo5.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 180
+    },
+    {
+        "id": "camiseta-06",
+        "titulo": "Combo 6",
+        "imagen": "./img/combo6.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 170
+    },
+    {
+        "id": "camiseta-07",
+        "titulo": "Combo 7",
+        "imagen": "./img/combo7.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 195
+    },
+    {
+        "id": "camiseta-08",
+        "titulo": "Combo 8",
+        "imagen": "./img/combo8.png",
+        "categoria": {
+            "nombre": "Combos",
+            "id": "combos"
+        },
+        "precio": 210
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Bermuda Denim",
+        "imagen": "./img/bermuda1.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 100
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Bermuda Raider",
+        "imagen": "./img/bermuda2.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 130
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Bermuda H&W",
+        "imagen": "./img/bermuda3.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 120
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Bermuda Bastard",
+        "imagen": "./img/bermuda4.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 150
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Bermuda Samples",
+        "imagen": "./img/bermuda5.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 190
+    },
+    {
+        "id": "pantalon-06",
+        "titulo": "Bermuda Mustaqe",
+        "imagen": "./img/bermuda6.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 190
+    },
+    {
+        "id": "pantalon-07",
+        "titulo": "Bermuda LaFrance",
+        "imagen": "./img/bermuda7.png",
+        "categoria": {
+            "nombre": "Bermudas",
+            "id": "bermudas"
+        },
+        "precio": 190
+    }
+]
